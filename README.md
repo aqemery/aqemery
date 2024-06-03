@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aqemery
-- 👀 I’m interested in 🐍 python programming
+- 👋 Hi, I’m Adam Emery
 - 🎮 I work on some game dev
+- ⏲️ I like programming competitions
 - ✍️ I write over at [adamemery.dev](https://adamemery.dev/)
 
 <!---
