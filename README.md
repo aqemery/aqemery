@@ -2,6 +2,7 @@
 - 🎮 I work on some game dev
 - ⏲️ I like programming competitions
 - ✍️ I write over at [adamemery.dev](https://adamemery.dev/)
+- 🐍 Check out my [python course](https://learn-python.adamemery.dev/)
 
 <!---
 aqemery/aqemery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
