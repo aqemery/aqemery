@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam Emery
-- 🎮 I work on some game dev
+- 🎮 I work on some game dev https://aqemery.itch.io
 - ⏲️ I like programming competitions
 - ✍️ I write over at [adamemery.dev](https://adamemery.dev/)
 - 🐍 Check out my [python course](https://learn-python.adamemery.dev/)
