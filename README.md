@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Emery
 - 🎮 I work on some game dev https://aqemery.itch.io
 - ⏲️ I like programming competitions
-- 🐍 Check out my [python course](https://learn-python.adamemery.dev/)
+- 🐍 Check out my python course: https://aqemery.github.io/learn-python
 
 <!---
 aqemery/aqemery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
