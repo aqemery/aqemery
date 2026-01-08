@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adam Emery
 - 💻 Check out my [linkedin](https://www.linkedin.com/in/aqemery/) for my work history
 - 🎮 I work on some game dev https://aqemery.itch.io
-- ⏲️ I like programming competitions
 - 🐍 Check out my python course: https://aqemery.github.io/learn-python
 
 <!---
